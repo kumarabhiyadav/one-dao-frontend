@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/protectedroutes.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/api/api.tsx","./src/context/alertcontext.tsx","./src/pages/alertbox.tsx","./src/pages/loader.tsx","./src/pages/loginpage.tsx","./src/pages/productpage.tsx","./src/pages/registerpage.tsx","./src/pages/verifyotppage.tsx","./src/provider/alertprovider.tsx"],"version":"5.6.3"}
